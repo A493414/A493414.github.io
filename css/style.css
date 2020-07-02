@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+.zast {
+  margin-top: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.div {
+  width: 540px;
+}
+
+p {
+  line-height: 24px;
+}
+
+img {
+  margin-top: 20px;  
+}
+
+.block {
+  margin: 20px 0 20px 0;
+}
+
+.block p {
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.block button {
+  float: right;
+  height: 30px;
+  margin-top: -26px;
+  padding: 0 10px;
+  font-weight: 700;
+}
+
+.empty {
+  height: 30px;
+}
